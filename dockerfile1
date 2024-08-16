@@ -1,5 +1,1 @@
-FROM UBUNTU
-MAINTAINER name prasad
-LABEL this is my 1st repo  
-EXPOSE 80
-COPY . /usr/local/apache2/htdocs/
+
